@@ -658,11 +658,11 @@ footer p {
     font-size: 1.1rem;
     display: block;
     padding: 1.1rem 2rem;
-    background: rgba(255,255,255,0.04);
+    background: rgba(255,255,255,0.2);
     transition: background 0.2s, color 0.2s;
   }
   .nav-mobile-open .nav-links a:hover {
-    background: rgba(201,168,76,0.12);
+    background: rgba(201,168,76,0.2);
     color: var(--gold);
   }
   .nav-mobile-open .nav-links .nav-cta {
